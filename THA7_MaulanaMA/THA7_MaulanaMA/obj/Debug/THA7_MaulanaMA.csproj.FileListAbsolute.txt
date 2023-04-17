@@ -1,0 +1,12 @@
+C:\Users\Olan\source\repos\THA7_MaulanaMA\THA7_MaulanaMA\bin\Debug\THA7_MaulanaMA.exe.config
+C:\Users\Olan\source\repos\THA7_MaulanaMA\THA7_MaulanaMA\bin\Debug\THA7_MaulanaMA.exe
+C:\Users\Olan\source\repos\THA7_MaulanaMA\THA7_MaulanaMA\bin\Debug\THA7_MaulanaMA.pdb
+C:\Users\Olan\source\repos\THA7_MaulanaMA\THA7_MaulanaMA\obj\Debug\THA7_MaulanaMA.csproj.AssemblyReference.cache
+C:\Users\Olan\source\repos\THA7_MaulanaMA\THA7_MaulanaMA\obj\Debug\THA7_MaulanaMA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Olan\source\repos\THA7_MaulanaMA\THA7_MaulanaMA\obj\Debug\THA7_MaulanaMA.Form1.resources
+C:\Users\Olan\source\repos\THA7_MaulanaMA\THA7_MaulanaMA\obj\Debug\THA7_MaulanaMA.Form2.resources
+C:\Users\Olan\source\repos\THA7_MaulanaMA\THA7_MaulanaMA\obj\Debug\THA7_MaulanaMA.Properties.Resources.resources
+C:\Users\Olan\source\repos\THA7_MaulanaMA\THA7_MaulanaMA\obj\Debug\THA7_MaulanaMA.csproj.GenerateResource.cache
+C:\Users\Olan\source\repos\THA7_MaulanaMA\THA7_MaulanaMA\obj\Debug\THA7_MaulanaMA.csproj.CoreCompileInputs.cache
+C:\Users\Olan\source\repos\THA7_MaulanaMA\THA7_MaulanaMA\obj\Debug\THA7_MaulanaMA.exe
+C:\Users\Olan\source\repos\THA7_MaulanaMA\THA7_MaulanaMA\obj\Debug\THA7_MaulanaMA.pdb
